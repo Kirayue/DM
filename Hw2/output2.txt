@@ -1,0 +1,18 @@
+A SUP:4
+D SUP:2
+F SUP:4
+B SUP:4
+A  B SUP:3
+F||A SUP:2
+A  F SUP:3
+D||B SUP:2
+B||A SUP:2
+B  F SUP:4
+D||F SUP:2
+D||A SUP:2
+B  F||A SUP:2
+A  B  F SUP:3
+D||B  F SUP:2
+D||F||A SUP:2
+D||B||A SUP:2
+D||B  F||A SUP:2
